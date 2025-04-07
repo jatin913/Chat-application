@@ -15,10 +15,12 @@ A simple yet powerful terminal-based chat application with private messaging, bu
 *Shows the server accepting connections from multiple clients*
 
 ### Client Chat Interface
-![image alt]((https://github.com/jatin913/chat-application/blob/2116af892c718213f44cb2b9b50db89b2057ce30/client.png))  
+![image alt](https://github.com/jatin913/chat-application/blob/fa9752c900abe20f188d098f0175d5c3d6b6c88b/client.png)
+
 *Demonstrates the chat and the private messaging between users Ace and Joe*
 
 ### Connection Handling
-![image alt]((https://github.com/jatin913/chat-application/blob/2116af892c718213f44cb2b9b50db89b2057ce30/disconnected.png))  
+![image alt](https://github.com/jatin913/chat-application/blob/2116af892c718213f44cb2b9b50db89b2057ce30/disconnected.png)
+
 *Shows server handling connection drops gracefully*
 
